@@ -1,0 +1,8 @@
+---
+id: every-icon
+name: Every Icon
+summary: Every 32x32 B&W icon
+desc: Based on John F. Simon Jr.'s "Every Icon", 1997.
+author: Jeffrey Lancaster
+fileName: every_icon.star
+packageName: everyicon
